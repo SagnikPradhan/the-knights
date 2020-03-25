@@ -414,3 +414,6 @@ MigrationBackup/
 *.vcxproj
 *.filters
 *.sln
+
+# Editor
+.vscode
