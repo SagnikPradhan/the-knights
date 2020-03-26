@@ -3,16 +3,15 @@
 > A Pet keyboard powered by Arduino and interacted by Web
 
 ## Index
-1. [Introduction](#what-is-this?)
-2. [Basic Idea](#basic-idea)
+1. [What is this](#what-is-this)
+2. [How does it work](#how-does-it-work)
 3. [Make it yourself](#how-to-make-it-yourself)
 4. [Contribute](#contribution)
     1. [Contribution Guidelines](#contribution-guidelines)
     1. [Todos](#todos)
     2. [Contributors](#contributors)
 
----
-## What is this?
+## What is this
 
 Meet **the knights**
 
@@ -27,9 +26,7 @@ And apart from all of these you can also have a timer running by the press of a 
 
 And the last good thing about this project is that it is all opensource. You can open the source code anytime, read the reference READMEs and make it all yours.
 
----
-
-## Basic Idea
+## How does it work
 
 The whole product is divided into 3 Main Parts
 
@@ -45,13 +42,9 @@ The Frontend then acts as your Dashboard. You can use the Dashboard to change th
 
 Want to know more? Check out the [Deepdive](./DEEPDIVE.md)
 
----
-
 ## How to make it yourself
 
 The project is not yet complete. So (currently) there is no way to get it working.
-
----
 
 ## Contribution
 
