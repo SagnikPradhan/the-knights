@@ -5,7 +5,7 @@
 ## Index
 1. [What is this](#what-is-this)
 2. [How does it work](#how-does-it-work)
-3. [Make it yourself](#how-to-make-it-yourself)
+3. [How do I make it?](#how-do-i-make-it?)
 4. [Contribute](#contribution)
     1. [How do I contribute?](#how-do-i-contribute?)
     2. [Contributors](#contributors)
@@ -41,7 +41,7 @@ The Frontend then acts as your Dashboard. You can use the Dashboard to change th
 
 Want to know more? Check out the [Deepdive](./DEEPDIVE.md)
 
-## How to make it yourself
+## How do I make it?
 
 The project is not yet complete. So (currently) there is no way to get it working.
 
@@ -61,8 +61,8 @@ Help us improve this project by giving us suggestions or reporting bugs through 
 
 Help us complete these todos!
 
-- [] Common: Add CI to the project
-- [] Frontend: Complete integration with backend
+- [ ] Common: Add CI to the project
+- [ ] Frontend: Complete integration with backend
 
 ### Contributors
 
