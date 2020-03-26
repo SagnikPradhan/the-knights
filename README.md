@@ -7,13 +7,12 @@
 2. [How does it work](#how-does-it-work)
 3. [Make it yourself](#how-to-make-it-yourself)
 4. [Contribute](#contribution)
-    1. [Contribution Guidelines](#contribution-guidelines)
-    1. [Todos](#todos)
+    1. [How do I contribute?](#how-do-i-contribute?)
     2. [Contributors](#contributors)
 
 ## What is this
 
-Meet **the knights**
+Meet **the knights** ⌨️
 
 A small pet keyboard powered by a custom Arduino board, a backend server in Python and a Web dashboard!
 
@@ -46,20 +45,24 @@ Want to know more? Check out the [Deepdive](./DEEPDIVE.md)
 
 The project is not yet complete. So (currently) there is no way to get it working.
 
-## Contribution
+## Contribute
 
-### Contribution Guidelines
+### How do I contribute?
 
-If you would like to work on this, Fork the Repository make changes and Send PRs! ❤️
+Help us improve this project by giving us suggestions or reporting bugs through Github issues or adding new features!
 
-### TODOs
+🌟 How do you add new features?
 
-Global todos related to the project in common
+1. Fork this Repository
+2. Clone your Repository
+3. Make changes on a new branch
+4. Push changes on your Repository
+5. Sends us your PRs ❤️
 
-- [x] Start this README
-- [x] Fix Grammar and Typo of README
-- [ ] Complete the whole README Function Flows
-- [ ] Fix the Index
+Help us complete these todos!
+
+- [] Common: Add CI to the project
+- [] Frontend: Complete integration with backend
 
 ### Contributors
 
