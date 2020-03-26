@@ -2,6 +2,9 @@
 
 > A Pet keyboard powered by Arduino and interacted by Web
 
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) ![Discord](https://img.shields.io/discord/687686667653611521)
+
+
 ## Index
 1. [What is this](#what-is-this)
 2. [How does it work](#how-does-it-work)
@@ -49,15 +52,17 @@ The project is not yet complete. So (currently) there is no way to get it workin
 
 ### How do I contribute?
 
-Help us improve this project by giving us suggestions or reporting bugs through Github issues or adding new features!
+Help us improve this project by giving us suggestions or reporting bugs through Github issues or adding new features through Pull Requests!
 
-🌟 How do you add new features?
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github) 
+
+🌟 TL;DR Heres how you do it
 
 1. Fork this Repository
 2. Clone your Repository
 3. Make changes on a new branch
 4. Push changes on your Repository
-5. Sends us your PRs ❤️
+5. Sends us your PRs through Github ❤️
 
 Help us complete these todos!
 
