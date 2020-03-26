@@ -66,6 +66,7 @@ Help us improve this project by giving us suggestions or reporting bugs through 
 
 Help us complete these todos!
 
+- [ ] Common: Complete DEEPDIVE
 - [ ] Common: Add CI to the project
 - [ ] Frontend: Complete integration with backend
 
